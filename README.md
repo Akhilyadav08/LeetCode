@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akhilyadav08/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Akhilyadav08/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akhilyadav08/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0561-array-partition](https://github.com/Akhilyadav08/LeetCode/tree/master/0561-array-partition) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Akhilyadav08/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akhilyadav08/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Akhilyadav08/LeetCode/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Akhilyadav08/LeetCode/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Akhilyadav08/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Akhilyadav08/LeetCode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Akhilyadav08/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
