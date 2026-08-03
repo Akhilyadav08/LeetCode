@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Akhilyadav08/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Akhilyadav08/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akhilyadav08/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Akhilyadav08/LeetCode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akhilyadav08/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akhilyadav08/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Akhilyadav08/LeetCode/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Akhilyadav08/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/Akhilyadav08/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Akhilyadav08/LeetCode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
