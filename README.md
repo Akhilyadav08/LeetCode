@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akhilyadav08/LeetCode/tree/master/0169-majority-element) |
+| [0290-word-pattern](https://github.com/Akhilyadav08/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Akhilyadav08/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akhilyadav08/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Akhilyadav08/LeetCode/tree/master/0383-ransom-note) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Akhilyadav08/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/Akhilyadav08/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Akhilyadav08/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Akhilyadav08/LeetCode/tree/master/0392-is-subsequence) |
 ## Greedy
