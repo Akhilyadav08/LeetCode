@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Akhilyadav08/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akhilyadav08/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akhilyadav08/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Akhilyadav08/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Akhilyadav08/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Akhilyadav08/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Akhilyadav08/LeetCode/tree/master/0075-sort-colors) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Akhilyadav08/LeetCode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Akhilyadav08/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akhilyadav08/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
